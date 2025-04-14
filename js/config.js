@@ -72,7 +72,10 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com',
         name: '如意资源',
     },
-    
+    cjhwba: {
+        api: 'https://cjhwba.com',
+        name: 'cjhwba资源',
+    },
     jkun: {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源',
